@@ -966,6 +966,7 @@ MCP 客户端是 AI 的“操作台”，以下是几个热门选择：
 | [Office-Word-MCP-Server](https://github.com/GongRzhe/Office-Word-MCP-Server) | 基于 python-docx 的 Word 文档 MCP：创建、读取与编辑 .docx，支持样式、表格、图片、页眉页脚与批注。 | 社区实现, Python 开发 🐍, 本地运行 🏠, MIT, Word 文档处理。 |
 | [Office-PowerPoint-MCP-Server](https://github.com/GongRzhe/Office-PowerPoint-MCP-Server) | 基于 python-pptx 的 PowerPoint MCP：让 AI 创建与修改 .pptx，操作幻灯片、文本框、图表与图片。 | 社区实现, Python 开发 🐍, 本地运行 🏠, MIT, PPT 生成与编辑。 |
 | [dsh-novel-writer](https://github.com/siweina/dsh-novel-writer) | 网文作者的本地章节体检工具集：16 个工具覆盖章节统计、风格基线自检、伏笔与剧情线登记、连贯性/OOC 审计、关键词与句式分析、本地语义检索；全离线运行，无需 API Key。 | 社区实现, TypeScript 📇, 本地运行 🏠, 跨平台 🍎🪟🐧 |
+| [Vespper](https://www.vespper.com/) | Word 文档远程 MCP：智能体以精简 HTML 读取 .docx，编辑结果写回原文件并生成 Word 原生修订（tracked changes），可在 Word 中逐条接受或拒绝。 | 官方实现 (Vespper) 🎖️, 远程端点 ☁️ `https://mcp.vespper.com/mcp`, OAuth 授权, 闭源商业服务。 |
 
 ---
 
